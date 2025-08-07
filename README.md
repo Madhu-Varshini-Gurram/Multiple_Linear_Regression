@@ -30,7 +30,8 @@ This directory contains the Exploratory Data Analysis (EDA) and Feature Engineer
 
 ## 📦 Libraries Used
 
-pandas
-numpy
-matplotlib
-seaborn
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-scikit-learn
